@@ -8,7 +8,7 @@ An Invoice creator project built with React. Add itemized items, configure quant
 
 <img width="1302" height="701" alt="Screenshot 2025-07-21 at 11 57 09 AM" src="https://github.com/user-attachments/assets/7f01e56a-c155-42a4-9398-821e4b06a2e2" />
 
-<img src="https://i.imgur.com/Bz3K3DE.png" style="max-width: 100px; width: 100%; height: auto;">
+<img width="1073" height="691" alt="Screenshot 2025-07-21 at 1 10 46 PM" src="https://github.com/user-attachments/assets/658fb949-1815-49a8-a618-2855f81f151e" />
 
 ### Installation
 
